@@ -1,0 +1,16 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "minha decrição",
+  "main": "a0160_funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.17.1"
+  }
+}
