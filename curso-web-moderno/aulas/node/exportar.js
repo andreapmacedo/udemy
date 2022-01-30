@@ -1,4 +1,3 @@
-
 console.log(module.exports)
 console.log(module.exports === this)
 console.log(module.exports === exports)
@@ -11,7 +10,7 @@ exports = null
 console.log(module.exports)
 
 exports = {
-  nome: 'Teste'
+    nome: 'Teste'
 }
 
 console.log(module.exports)

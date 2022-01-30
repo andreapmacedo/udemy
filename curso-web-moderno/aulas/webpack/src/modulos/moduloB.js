@@ -1,4 +1,3 @@
-// modo do node
 module.exports = {
-        saudacao() { return 'Olá, seu sou o Módulo B!!!' }
+    saudacao() { return 'Olá eu sou o Módulo B!!!' }
 }
