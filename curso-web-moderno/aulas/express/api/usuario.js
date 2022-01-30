@@ -1,10 +1,9 @@
 function salvar(req, res) {
-  res.send('Usuário > salvar')
+    res.send('Usuario > salvar')
 }
 
-
 function obter(req, res) {
-  res.send('Usuario > obter')
+    res.send('Usuario > obter')
 }
 
 module.exports = { salvar, obter }
